@@ -1,11 +1,9 @@
-## Hi there 👋
+## ML for music and audio 🎶
+<img src="https://i.imgur.com/2ZbEswv.png">
+
+- I'm currently working on the `Automatic Music Performance Assessment & Feedback` project at the [C4DM](https://www.c4dm.eecs.qmul.ac.uk/) in collaboration with [ABRSM](https://www.abrsm.org).
 
 <!--
-**mimbres/mimbres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
