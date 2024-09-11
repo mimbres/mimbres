@@ -1,7 +1,7 @@
 ## ML for music and audio 🎶
 <img src="https://i.imgur.com/2ZbEswv.png">
 
-- I'm currently working on the `Automatic Music Performance Assessment & Feedback` project at the [C4DM](https://www.c4dm.eecs.qmul.ac.uk/) in collaboration with [ABRSM](https://www.abrsm.org).
+- I'm currently working on the `Automatic Music Performance Assessment & Feedback` project at the [C4DM](https://www.c4dm.eecs.qmul.ac.uk/).
 
 <!--
 - 🌱 I’m currently learning ...
