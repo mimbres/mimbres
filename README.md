@@ -7,7 +7,7 @@
 ![GitHub stats](https://github-readme-stats-rouge-nu-29.vercel.app/api?username=mimbres&include_all_commits=false&show_icons=true&rank_icon=github
 )
 
-- 🌱 I'm currently working on the `Automatic Music Performance Assessment & Feedback` project at the [C4DM](https://www.c4dm.eecs.qmul.ac.uk/).
+- 🌱 I'm currently working on the `Automatic Music Performance Assessment & Feedback` project at the [C4DM](https://www.c4dm.eecs.qmul.ac.uk/) with ABRSM.
 
 
 <!--
